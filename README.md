@@ -22,7 +22,7 @@ Prerequisites
 Installation
 	1.	Clone this repository:
 
-git clone https://github.com/yourusername/bubbles-background-animation.git
+git clone https://github.com/mazinaliup/bubbles-background-animation.git
 
 
 	2.	Open the project directory:
