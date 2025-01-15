@@ -19,18 +19,15 @@ Getting Started
 Prerequisites
 	•	A modern web browser (Google Chrome, Firefox, Edge, etc.).
 
-Installation
-	1.	Clone this repository:
+Installation:
 
-git clone https://github.com/mazinaliup/bubbles-background-animation.git
+-Clone this repository:
 
+	git clone https://github.com/mazinaliup/bubbles-background-animation.git
 
-	2.	Open the project directory:
+-Open the project directory: 
 
-cd bubbles-background-animation
-
-
-	3.	Open the index.html file in a browser to view the animation.
+	cd bubbles-background-animation
 
 File Structure
 
